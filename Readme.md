@@ -13,6 +13,32 @@ java基础总结
 [Leetcode] 165. Compare Version Numbers
 
 
+
+排列组合
+
+
+链表
+
+
+topk大数据
+
+
+[Github]: Java面试指南 https://github.com/Snailclimb/JavaGuide
+
+
 BAT
 
 String Reverse
+
+进程 线程 程序 协程
+
+Java 总结 https://github.com/crossoverJie/JCSprout
+
+
+https://github.com/hadyang/interview
+
+
+https://github.com/Snailclimb/JavaGuide
+
+
+https://github.com/CL0610/Java-concurrency
