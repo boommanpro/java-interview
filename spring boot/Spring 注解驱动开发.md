@@ -110,7 +110,9 @@ spring源码中 org.springframework.boot.autoconfigure.validation.ValidationAuto
 在构造方法前加也会让Bean延迟加载
 
 @Conditional
-
+在org.springframework.boot.autoconfigure.condition有众多在创建Bean要达到某种要求
+如@ConditionalOnProperty 必须properties内容满足条件才可以创建bean
+如@ConditionalOnMissingBean 如果有这个Bean就不能再创建了等
 
 @Import
 
